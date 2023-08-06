@@ -1,6 +1,6 @@
 # Programa de Generación de IDs de Acestream
 
-Este programa está diseñado para generar IDs para Acestream utilizando una API local. La generación de IDs se realiza a partir de infohashes proporcionados en un archivo de entrada, y los resultados se almacenan en un archivo de salida. También realiza un seguimiento de los infohashes procesados y sus respectivos IDs para evitar duplicados.
+Este programa está diseñado para generar IDs para Acestream utilizando una API local. La generación de IDs se realiza a partir de infohashes de los enlaces magnets proporcionados en un archivo de entrada, y los resultados se almacenan en un archivo de salida. También realiza un seguimiento de los infohashes procesados y sus respectivos IDs para evitar duplicados.
 
 ## Requisitos previos
 
