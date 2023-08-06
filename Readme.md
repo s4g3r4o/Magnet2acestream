@@ -52,4 +52,4 @@ Durante la ejecución del programa, si deseas detener el proceso manualmente, pu
 
 Al finalizar el proceso, el programa imprimirá en la consola el número de Acestream para los cuales se generaron correctamente los IDs y el número de errores que ocurrieron durante el proceso. Además, informará la ubicación del archivo de salida donde se guardaron los resultados generados.
 
-¡Listo! Ahora puedes utilizar este programa para generar IDs de Acestream a partir de infohashes de manera sencilla y eficiente.
+¡Listo! Ahora puedes utilizar este programa para generar IDs de Acestream a partir de magnets de manera sencilla y eficiente.
