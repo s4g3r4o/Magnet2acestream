@@ -30,7 +30,7 @@ output_file: ruta/al/archivo_de_salida.txt
 processed_file: ruta/al/archivo_de_procesados.txt
 ```
 
-- `input_file`: Ruta al archivo que contiene los infohashes de Acestream para los cuales se generarán los IDs.
+- `input_file`: Ruta al archivo que contiene los enlaces magnets para los cuales se generarán los IDs.
 - `output_file`: Ruta al archivo donde se guardarán los IDs generados.
 - `processed_file`: Ruta al archivo que almacena los infohashes procesados y sus IDs generados para evitar duplicados y evitar tantas llamadas a la API
 
