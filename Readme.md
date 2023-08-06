@@ -39,7 +39,7 @@ processed_file: ruta/al/archivo_de_procesados.txt
 Para ejecutar el programa, simplemente abre una terminal o línea de comandos, navega al directorio donde se encuentra el script y el archivo `config.yaml`, y luego ejecuta el siguiente comando:
 
 ```bash
-python nombre_del_script.py
+python magnet2acestream.py
 ```
 
 El programa comenzará a procesar los infohashes del archivo de entrada y generará los IDs correspondientes. Los resultados se guardarán en el archivo de salida especificado en la configuración.
